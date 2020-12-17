@@ -1,3 +1,13 @@
+# AOC Specific Containers
+
+<table style="width: 100%; border-style: none;"><tr>
+<td style="width: 140px; text-align: center;"><a href="https://aka.ms/vscode-remote/download/extension"><img width="128px" src="https://microsoft.github.io/vscode-remote-release/images/remote-extensionpack.png" alt="Visual Studio Code logo"/></a></td>
+<td>
+<strong>Remote Development and AOC Codespaces</strong><br />
+<i>We arew implementing a CodeSpaces in our datacenter, but they are not quite yet avaqailable.
+</td>
+</tr></table>
+
 # VS Code Remote / GitHub Codespaces Container Definitions
 
 <table style="width: 100%; border-style: none;"><tr>
